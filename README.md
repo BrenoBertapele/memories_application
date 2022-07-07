@@ -17,7 +17,6 @@ You'll learn how to build a Full Stack MERN Application - from start to finish. 
 - Express, 
 - MongoDB.
 
-
 ## Take a look at the following link 
 
 --> https://memoriesapplication.netlify.app/posts
